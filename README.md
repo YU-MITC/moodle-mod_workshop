@@ -13,3 +13,5 @@ And, we have added some language strings.
 Additionally, for the Microsoft Windows and Japanese environments, we have added some statements in order to prevent text garbling of ZIP filename.
 Note that, it is not possible to completely prevent filename garbling of submitted files contained in the ZIP file.
 Because, complete character code conversion from the UTF-8 to the Shift JIS is not possible.
+
+Now, codes of this plugin are based on the workshop plugin for the Moodle 3.9.
