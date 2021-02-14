@@ -4,9 +4,9 @@ Customized Moodle workshop plugin
 Due to the spread of COVID-19 infection, distance learning has increased in Japanese schools.
 The Moodle "workshop" module has a mutual evaluation function between students.
 With the increase in distance learning, the workshop activities are  used in more classes/subjects.
-However, conventional workshop module does not have download function of submissions.
+However, conventional workshop module does not have bulk download function of submitted files.
 
-So that, we add a download function for the workshop module.
+So that, we add a bulk download function for the workshop module.
 For this function, we have added some statements to "view.php", and have added some functions to "locallib.php".
 And, we have added some language strings.
 
