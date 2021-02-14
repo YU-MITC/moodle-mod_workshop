@@ -8,6 +8,7 @@ However, conventional workshop module does not have download function of submiss
 
 So that, we add a download function for the workshop module.
 For this function, we have added some statements to "view.php", and have added some functions to "locallib.php".
+And, we have added some language strings.
 
 Additionally, for the Microsoft Windows and Japanese environments, we have added some statements in order to prevent text garbling of ZIP filename.
 Note that, it is not possible to completely prevent filename garbling of submitted files contained in the ZIP file.
